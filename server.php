@@ -6,6 +6,6 @@
     <title>SERVER PHP BADWORDS</title>
 </head>
 <body>
-    
+    <h1>CIAO DA SERVER.PHP</h1>
 </body>
 </html>

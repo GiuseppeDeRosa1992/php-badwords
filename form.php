@@ -6,6 +6,6 @@
     <title>PHP BADWORDS</title>
 </head>
 <body>
-    
+    <h1>Ciao da FORM.PHP</h1>
 </body>
 </html>
