@@ -1,3 +1,7 @@
+<?php
+$nome = $_GET["nome"]
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,5 +11,10 @@
 </head>
 <body>
     <h1>CIAO DA SERVER.PHP</h1>
+    <h2>
+        <?php
+            echo $nome
+        ?>
+    </h2>
 </body>
 </html>
