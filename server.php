@@ -1,5 +1,6 @@
 <?php
-$nome = $_GET["nome"]
+$nome = $_GET["nome"];
+$testo = $_GET["testo"]
 ?>
 
 <!DOCTYPE html>
@@ -16,5 +17,10 @@ $nome = $_GET["nome"]
             echo $nome
         ?>
     </h2>
+    <h3>
+        <?php
+            echo strlen($testo)
+        ?>
+    </h3>
 </body>
 </html>
